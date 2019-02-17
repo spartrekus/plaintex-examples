@@ -1,3 +1,16 @@
+
+tex hello.tex
+
+tex text.tex
+
+
+
+# exit
+!EOF
+
+
+
+
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>[1] 
 
 echo 'This is a test of Hello World \bye' > test.tex
