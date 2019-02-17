@@ -1,3 +1,6 @@
+#mmake
+
+#this is a mini make file. (see mmake binary)
 
 tex hello.tex
 
